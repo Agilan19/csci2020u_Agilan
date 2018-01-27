@@ -1,0 +1,7 @@
+*.class
+*.jar
+
+*/build/*
+*/.gradle/*
+
+*.swp
